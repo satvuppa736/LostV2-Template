@@ -31,7 +31,7 @@ namespace LostV2
             /// to the next appropriate scene
             if (e.KeyCode == Keys.M)       //red button press
             {
-
+                //Gang
             }
             else if (e.KeyCode == Keys.B)  //blue button press
             {
